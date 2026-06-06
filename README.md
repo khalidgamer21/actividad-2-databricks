@@ -45,5 +45,7 @@ durante la ejecución:
 
 - [`Monterrosa_Marlon_Actividad_2.ipynb`](Monterrosa_Marlon_Actividad_2.ipynb)
 
+- link del video: https://drive.google.com/drive/folders/1bjBUKoZ-c8WbA4P-yxwth62fTMHnoC-T?usp=sharing
+
 Las credenciales utilizadas para acceder a Kaggle fueron eliminadas antes de
 publicar la entrega.
